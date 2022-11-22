@@ -10,4 +10,11 @@
 This is *emphasized* _text_.  
 This is very heavily **emphasized** __text__.
 
-![alt text](Markdown_Syntax_in_gedit.png "pic")
+![alt text](Markdown_Syntax_in_gedit.png "pic")  
++ One
++ Two
++ Three
+    - Nested One
+    - Nested Two
+
+![alt text](images/del.jpeg "del")  
