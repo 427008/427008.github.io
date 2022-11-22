@@ -17,4 +17,4 @@ This is very heavily **emphasized** __text__.
     - Nested One
     - Nested Two
 
-![alt text](images/del.jpeg "del")  
+<img src="images/del.jpeg" width="200" height="100">
