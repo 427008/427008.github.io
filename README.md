@@ -17,4 +17,8 @@ This is very heavily **emphasized** __text__.
     - Nested One
     - Nested Two
 
-<img src="images/del.jpeg" width="200" height="100">
+<figure>
+<img src="images/del.jpeg" width="200" height="100" alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+> :bulb: **Tip:** Remember to appreciate the little things in life.
